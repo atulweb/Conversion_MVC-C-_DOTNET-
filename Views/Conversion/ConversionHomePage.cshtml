@@ -1,0 +1,32 @@
+@model ConversionMVC.Models.Conversion
+
+ <html>
+  <head>
+    <meta charset="UTF-8">
+     <link rel="stylesheet" href="/Users/atul/Projects/ConversionAppSolution/ConversionApp/wwwroot/css/conversionPage.css">
+  </head>
+  <body>
+    <br>
+    <br>
+    <div  class="text-center">
+    <form method="post" asp-action="ConversionHomePage">
+      <label asp-for="Type"> Select a conversion type:</label>
+      <br>
+      <select asp-for="Type">
+         <option value="Currency">Currency Conversion</option>
+        <option value="Length">Length Conversion</option>
+        <option value="Temperature">Temperature Conversion</option>
+        <option value="Weight">Weight Conversion</option>
+        <!-- add more conversion options here -->
+      </select>
+      <br>
+      <button type="submit">Submit</button>
+    </form>
+    </div>
+  </body>
+</html>  
+
+
+
+
+

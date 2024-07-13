@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ConversionMVC
+build_property.RootNamespace = ConversionMVC
+build_property.ProjectDir = C:\Users\atult\OneDrive\Desktop\Projects VS-Code\Proj\Proj\ConversionMVC\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\atult\OneDrive\Desktop\Projects VS-Code\Proj\Proj\ConversionMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/Conversion/ConversionHomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVyc2lvblxDb252ZXJzaW9uSG9tZVBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/Conversion/Currency.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVyc2lvblxDdXJyZW5jeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/Conversion/Length.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVyc2lvblxMZW5ndGguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/Conversion/Temperature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVyc2lvblxUZW1wZXJhdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/Conversion/Weight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVyc2lvblxXZWlnaHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/atult/OneDrive/Desktop/Projects VS-Code/Proj/Proj/ConversionMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j1n0flkpn0
